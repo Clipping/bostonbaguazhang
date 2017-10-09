@@ -45,5 +45,13 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
+  },
+  "author": {
+    "name": "William Oparowski",
+    "email": "william.oparowski@protonmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clipping/bostonbaguazhang.git"
   }
 }
